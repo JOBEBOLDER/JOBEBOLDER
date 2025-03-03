@@ -1,16 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=0C301A00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jieyao;A+dreamer+who+codes+and+creates)](https://git.io/typing-svg)
 
 - 🏫 I'm currently pursing master in computer science in **Northeastern university🇺🇸**
-
-- 👷‍♀️ I'm an ex-architect and designer with experience in UI/UX and digital product design **📌and experience with frontend and design tools**
-
-- 🚀 I'm looking for [25summer/26 spring](intern opportunities)
-
-- 📫 How to reach me [offerjiayou@gmail.com](offerjiayou@gmail.com)
-
-- ❄️ I'm currently learning snowboarding—always **excited to try new things!**
-
-- 😆 Fun fact **My art and code both start with a blank canvas**
+- 👩‍💻 My interest: backend, cloud infrastructure, distributed systems, microservices
+- 👷‍♀️ I'm an ex-architect and designer with experience in UI/UX and digital product design
+- 🚀 I'm looking for **25summer/26 spring** intern opportunities
+- 📫 Reach out to me! **offerjiayou@gmail.com**
+- 😆 Fun fact : My art and code both start with a blank canvas, always believe potential is limitless
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
