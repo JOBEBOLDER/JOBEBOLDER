@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=0C301A00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jieyao;A+dreamer+who+codes+and+creates)](https://git.io/typing-svg)
-<h3 align="center">A dreamer who codes and creates</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=0C301A00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jieyao;A+dreamer+who+codes+and+creates)](https://git.io/typing-svg)
 
 - 🏫 I'm currently pursing master in computer science in **Northeastern university🇺🇸**
 
@@ -17,7 +16,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jieyao-chen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jieyao-chen/" height="30" width="40" /></a>
 <a href="https://instagram.com/kityiuxixi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kityiuxixi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jobebolder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jobebolder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
