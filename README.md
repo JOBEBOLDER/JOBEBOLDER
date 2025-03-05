@@ -5,7 +5,7 @@
 - 👷‍♀️ I'm an ex-architect and designer with experience in UI/UX and digital product design
 - 🚀 I'm looking for **25summer/26 spring** intern opportunities
 - 📫 Reach out to me! **offerjiayou@gmail.com**
-- 😆 Fun fact: My art and code both start with a blank canvas; I always believe potential is limitless
+- 😆 Fun fact: My art and code both start with a blank canvas; I always believe potential is limitless!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
