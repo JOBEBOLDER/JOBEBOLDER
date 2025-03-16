@@ -21,12 +21,12 @@
 ![Python](https://badgen.net/badge/Python/Lang/blue?icon=python)
 ![Java](https://badgen.net/badge/Java/Lang/red?icon=java)
 ![C](https://badgen.net/badge/C/Lang/blue?icon=c)
-![C#](https://badgen.net/badge/C%23/Sharp/purple?icon=csharp)
+![Objective-C](https://badgen.net/badge/Objective-C/iOS/blue?icon=apple)
 ![HTML5](https://badgen.net/badge/HTML5/HTML/orange?icon=html5)
 ![CSS3](https://badgen.net/badge/CSS3/CSS/blue?icon=css3)
 ![Swift](https://badgen.net/badge/Swift/iOS/orange?icon=swift)
 ![Go](https://badgen.net/badge/Go/Lang/teal?icon=golang)
-![Objective-C](https://badgen.net/badge/Objective-C/iOS/blue?icon=apple)
+
 
 ### Backend & Infrastructure
 ![Node.js](https://badgen.net/badge/Node.js/JS/green?icon=node)
