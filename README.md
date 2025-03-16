@@ -67,4 +67,3 @@
 ![Blender](https://badgen.net/badge/Blender/3D/orange)
 ![Unity](https://badgen.net/badge/Unity/Game/black)
 ![Unreal Engine](https://badgen.net/badge/Unreal/Engine/black)
-![MATLAB](https://badgen.net/badge/MATLAB/Computing/blue)
