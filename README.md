@@ -56,12 +56,15 @@
 ![Git](https://badgen.net/badge/Git/VCS/red?icon=git)
 ![Jenkins](https://badgen.net/badge/Jenkins/CI-CD/yellow?icon=jenkins)
 
-### Design Tools
+### Architecture Design & CAD Tools
 ![Figma](https://badgen.net/badge/Figma/Design/purple?icon=figma)
 ![Adobe Illustrator](https://badgen.net/badge/Adobe/Illustrator/orange?icon=adobe)
 ![Adobe Photoshop](https://badgen.net/badge/Adobe/Photoshop/blue?icon=adobe)
 ![Adobe XD](https://badgen.net/badge/Adobe/XD/pink?icon=adobe)
 ![Sketch](https://badgen.net/badge/Sketch/Design/yellow)
-![Blender](https://badgen.net/badge/Blender/3D/orange)
-![Unity](https://badgen.net/badge/Unity/Game/black)
-![Unreal Engine](https://badgen.net/badge/Unreal/Engine/black)
+![Rhino](https://badgen.net/badge/Rhino/3D/silver)
+![3DS Max](https://badgen.net/badge/3DS%20Max/3D/blue)
+![AutoCAD](https://badgen.net/badge/AutoCAD/CAD/red)
+![SketchUp](https://badgen.net/badge/SketchUp/3D/teal)
+![V-Ray](https://badgen.net/badge/V-Ray/Render/grey)
+![Lumion](https://badgen.net/badge/Lumion/Render/orange)
