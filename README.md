@@ -19,7 +19,6 @@
 ![Python](https://badgen.net/badge/Python/Lang/blue?icon=python)
 ![Java](https://badgen.net/badge/Java/Lang/red?icon=java)
 ![C](https://badgen.net/badge/C/Lang/blue?icon=c)
-![Objective-C](https://badgen.net/badge/Objective-C/iOS/blue?icon=apple)
 ![HTML5](https://badgen.net/badge/HTML5/HTML/orange?icon=html5)
 ![CSS3](https://badgen.net/badge/CSS3/CSS/blue?icon=css3)
 ![Swift](https://badgen.net/badge/Swift/iOS/orange?icon=swift)
@@ -39,8 +38,7 @@
 ![Nginx](https://badgen.net/badge/Nginx/Server/green?icon=nginx)
 ![Linux](https://badgen.net/badge/Linux/OS/orange?icon=linux)
 ![AWS](https://badgen.net/badge/AWS/Cloud/orange?icon=aws)
-![Google Cloud](https://badgen.net/badge/GCP/Cloud/blue?icon=gcp)
-![Kafka](https://badgen.net/badge/Kafka/Streaming/black?icon=kafka)
+
 
 ### Frontend & Frameworks
 ![React](https://badgen.net/badge/React/JS/cyan?icon=react)
