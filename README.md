@@ -3,7 +3,7 @@
 - 🏫 I'm currently pursing master in computer science in **Northeastern university🇺🇸**
 - 👩‍💻 My interest: backend, cloud infrastructure, distributed systems, microservices
 - 👷‍♀️ I'm an ex-architect and designer with experience in UI/UX and digital product design
-- 🚀 I'm looking for **25summer/26 spring** intern opportunities
+- 🚀 I'm looking for **25fall/ 26spring** intern opportunities
 - 📫 Reach out to me! **chen.jieyao@northeastern.edu**
 - 😆 Fun fact: My art and code both start with a blank canvas; I always believe potential is limitless!
 
