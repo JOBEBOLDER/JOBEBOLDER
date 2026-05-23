@@ -1,11 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&background=0C301A00&width=600&lines=Hi+%F0%9F%91%8B++I'm+Jieyao;A+dreamer+who+codes+and+creates)](https://git.io/typing-svg)
 ---
-- 🏫 I'm currently pursing master in computer science in **Northeastern university🇺🇸**
-- 👩‍💻 My interest: backend, cloud infrastructure, distributed systems, microservices
-- 👷‍♀️ I'm an ex-architect and designer with experience in UI/UX and digital product design
-- 🚀 I'm looking for **25fall/ 26spring** intern opportunities
-- 📫 Reach out to me! **chen.jieyao@northeastern.edu**
-- 😆 Fun fact: My art and code both start with a blank canvas; I always believe potential is limitless!
+
+- 🏫 Incoming M.S. in Artificial Intelligence student at **Northeastern University 🇺🇸**
+- 🎓 Background in Computer Science, software engineering, backend systems, and distributed systems
+- 👩‍💻 Academic interests: machine learning applications, AI-oriented software engineering, intelligent software systems, and scalable backend infrastructure
+- 👷‍♀️ Ex-architect and designer with experience in UI/UX and digital product design
+- 🌱 Currently building on my CS foundation to explore practical, civilian, and commercial applications of AI
+- 😆 Fun fact: My tuxedo cat is my unofficial debugging partner — she judges my code silently from the keyboard.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
