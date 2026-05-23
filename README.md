@@ -6,7 +6,7 @@
 - 👩‍💻 Academic interests: machine learning applications, AI-oriented software engineering, intelligent software systems, and scalable backend infrastructure
 - 👷‍♀️ Ex-architect and designer with experience in UI/UX and digital product design
 - 🌱 Currently building on my CS foundation to explore practical, civilian, and commercial applications of AI
-- 😆 Fun fact: My tuxedo cat is my unofficial debugging partner — she judges my code silently from the keyboard.
+- 😆 Fun fact: My tuxedo cat🐱 is my unofficial debugging partner — she judges my code silently from the keyboard.
 
 
 <h3 align="left">Connect with me:</h3>
