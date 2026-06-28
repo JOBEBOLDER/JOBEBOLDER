@@ -53,7 +53,7 @@
 </p>
 
 ---
-
+Some interesting personal projects you may find here:
 ### 🤖 AI & Agents
 
 | Project | Description | Tech |
@@ -68,12 +68,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [finalize\_6650\_distributed\_system](https://github.com/JOBEBOLDER/finalize_6650_distributed_system) | Distributed systems concepts: socket programming, KV stores, consistency protocols | Java |
-| [CS6650project2](https://github.com/JOBEBOLDER/CS6650project2) | Builds on a KV store with RPC and multi-threaded server architecture | Java |
-| [CS6650-project1-kvstore](https://github.com/JOBEBOLDER/CS6650-project1-kvstore) | Java-based distributed KV store supporting TCP/UDP, client-server architecture | Java |
+
 | [High-Concurrency-Commerce-Platform](https://github.com/JOBEBOLDER/High-Concurrency-Commerce-Platform) | High-performance eCommerce backend — Java, Redis, Spring Boot, real-time transactions | Java |
-| [distributed\_system\_cpp\_prep](https://github.com/JOBEBOLDER/distributed_system_cpp_prep) | C++ distributed systems prep — socket, concurrency, low-level foundations | C++ |
-| [6650TA\_Autograder](https://github.com/JOBEBOLDER/6650TA_Autograder) | Autograder built as CS6650 TA to evaluate distributed systems assignments | C++ |
+| [finalize\_6650\_distributed\_system](https://github.com/JOBEBOLDER/finalize_6650_distributed_system) | Distributed systems concepts: socket programming, KV stores, consistency protocols | Java |
 
 ---
 
@@ -93,10 +90,6 @@
 | Project | Description |
 |--------|-------------|
 | [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) *(fork)* | Scalable generative AI framework — contributed documentation PRs |
-| [NVIDIA/NeMo-Gym](https://github.com/NVIDIA/Gym) *(fork)* | Evaluate and train models and agents using environments |
-| [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) *(fork)* | Optimizing LLM inference on NVIDIA GPUs |
-| [Curator](https://github.com/allenai/curator) *(fork)* | Data processing & curation toolkit for LLMs |
-
 ---
 
 ### 📚 Coursework & Learning
