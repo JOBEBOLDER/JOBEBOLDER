@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&background=0C301A00&width=600&lines=Hi+%F0%9F%91%8B++I'm+Jieyao;A+dreamer+who+codes+and+creates)](https://git.io/typing-svg)
+
 ---
+
 - 🏫 Incoming M.S. in Artificial Intelligence student at **Northeastern University 🇺🇸**
 - 🎓 Background in Computer Science, software engineering, backend systems, and distributed systems
 - 👩‍💻 Academic interests: machine learning applications, AI-oriented software engineering, intelligent software systems, and scalable backend infrastructure
@@ -18,14 +20,12 @@
 ### 🛠 Tech Stack
 
 <p align="left">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <!-- Backend & Infra -->
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
@@ -35,17 +35,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <!-- AI / Data -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <!-- Creative -->
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rhino_3D-801010?style=flat&logoColor=white"/>
@@ -53,7 +50,9 @@
 </p>
 
 ---
+
 Some interesting personal projects you may find here:
+
 ### 🤖 AI & Agents
 
 | Project | Description | Tech |
@@ -68,7 +67,6 @@ Some interesting personal projects you may find here:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-
 | [High-Concurrency-Commerce-Platform](https://github.com/JOBEBOLDER/High-Concurrency-Commerce-Platform) | High-performance eCommerce backend — Java, Redis, Spring Boot, real-time transactions | Java |
 | [finalize\_6650\_distributed\_system](https://github.com/JOBEBOLDER/finalize_6650_distributed_system) | Distributed systems concepts: socket programming, KV stores, consistency protocols | Java |
 
@@ -90,6 +88,7 @@ Some interesting personal projects you may find here:
 | Project | Description |
 |--------|-------------|
 | [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) *(fork)* | Scalable generative AI framework — contributed documentation PRs |
+
 ---
 
 ### 📚 Coursework & Learning
@@ -100,3 +99,12 @@ Some interesting personal projects you may find here:
 | [5100Foundation\_Of\_AI](https://github.com/JOBEBOLDER/5100Foundation_Of_AI) | CS 5100 AI Foundations — NEU |
 | [5600computer\_system](https://github.com/JOBEBOLDER/5600computer_system) | CS 5600 Computer Systems — NEU |
 | [CS618\_](https://github.com/JOBEBOLDER/CS618_) | CS 6180 coursework |
+
+---
+
+<p align="center">
+  <i>Curious about where this CS journey started? I used to design spaces before I designed systems.</i><br/>
+  <i>If you want to know more about my background, feel free to check out my undergraduate thesis project — </i>
+  <a href="https://github.com/JOBEBOLDER/SUPERLAND"><strong>SUPERLAND</strong></a>
+  <i>, a spatial design exploration on how architecture can enhance human experience. 🏛️</i>
+</p>
