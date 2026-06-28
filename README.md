@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&background=0C301A00&width=600&lines=Hi+%F0%9F%91%8B++I'm+Jieyao;A+dreamer+who+codes+and+creates)](https://git.io/typing-svg)
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&background=0C301A00&width=600&lines=Hi+%F0%9F%91%8B++I'm+Jieyao;A+dreamer+who+codes+and+creates)](https://git.io/typing-svg)
-
----
-
 - 🏫 Incoming M.S. in Artificial Intelligence student at **Northeastern University 🇺🇸**
 - 🎓 Background in Computer Science, software engineering, backend systems, and distributed systems
 - 👩‍💻 Academic interests: machine learning applications, AI-oriented software engineering, intelligent software systems, and scalable backend infrastructure
