@@ -83,28 +83,9 @@ Some interesting personal projects you may find here:
 
 ---
 
-### 🌐 Open Source Contributions
-
-| Project | Description |
-|--------|-------------|
-| [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) *(fork)* | Scalable generative AI framework — contributed documentation PRs |
-
----
-
-### 📚 Coursework & Learning
-
-| Repo | Course / Purpose |
-|------|-----------------|
-| [leetcode\_solutions](https://github.com/JOBEBOLDER/leet_code_solutions) | 570+ LeetCode problems — organized by category |
-| [5100Foundation\_Of\_AI](https://github.com/JOBEBOLDER/5100Foundation_Of_AI) | CS 5100 AI Foundations — NEU |
-| [5600computer\_system](https://github.com/JOBEBOLDER/5600computer_system) | CS 5600 Computer Systems — NEU |
-| [CS618\_](https://github.com/JOBEBOLDER/CS618_) | CS 6180 coursework |
 
 ---
 
 <p align="center">
-  <i>Curious about where this CS journey started? I used to design spaces before I designed systems.</i><br/>
-  <i>If you want to know more about my background, feel free to check out my undergraduate thesis project — </i>
-  <a href="https://github.com/JOBEBOLDER/SUPERLAND"><strong>SUPERLAND</strong></a>
-  <i>, a spatial design exploration on how architecture can enhance human experience. 🏛️</i>
+  <i>If you want to know more about my background, feel free to check out my undergraduate thesis project — </i><a href="https://github.com/JOBEBOLDER/SUPERLAND"><strong>SUPERLAND</strong></a><i>, a spatial design exploration on how architecture can enhance human experience. 🏛️</i>
 </p>
