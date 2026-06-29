@@ -7,7 +7,7 @@
 - 👩‍💻 Academic interests: machine learning applications, AI-oriented software engineering, intelligent software systems, and scalable backend infrastructure
 - 👷‍♀️ Ex-architect and designer with experience in UI/UX and digital product design
 - 🌱 Currently building on my CS foundation to explore practical, civilian, and commercial applications of AI
-- 🐱 Fun fact: My tuxedo cat is my unofficial debugging partner — she judges my code silently from the keyboard
+- 😆 Fun fact: My tuxedo cat 🐱 is my unofficial debugging partner — she judges my code silently from the keyboard
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -78,13 +78,13 @@ Some interesting personal projects you may find here:
 |--------|-------------|------|
 | [inner\_weather](https://github.com/JOBEBOLDER/inner_weather) | A personal mood & weather journaling app — i18n, dark mode, bilingual UI | TypeScript |
 | [Kanbas\_teaching\_management\_system](https://github.com/JOBEBOLDER/Kanbas_teaching_management_system) | Full-stack LMS inspired by Canvas — React, Redux, Node.js, MongoDB | HTML · React · Node.js |
+| [Studyroom\_matcher](https://github.com/JOBEBOLDER/Studyroom_matcher) | HCI course project — mobile app prototype that matches students to virtual study rooms by subject, ambiance & group size; includes usability testing & heuristic evaluation | React Native · TypeScript · Figma |
 | [employee\_management\_project](https://github.com/JOBEBOLDER/employee_management_project) | Employee management system with API & data visualization | Python |
 | [Cathy\_Personal\_Website](https://github.com/JOBEBOLDER/Cathy_Personal_Website) | Personal portfolio website | TypeScript |
+| [Studyroom\_matcher](https://github.com/JOBEBOLDER/Studyroom_matcher) | Mobile app prototype that matches students to virtual study rooms by subject, ambiance & group size — HCI coursework at NEU | Figma · React Native · TypeScript |
 
 ---
 
-
----
 
 <p align="center">
   <i>If you want to know more about my background, feel free to check out my undergraduate thesis project — </i><a href="https://github.com/JOBEBOLDER/SUPERLAND"><strong>SUPERLAND</strong></a><i>, a spatial design exploration on how architecture can enhance human experience. 🏛️</i>
