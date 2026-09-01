@@ -2,7 +2,7 @@
 
 ---
 
-- 🏫 Incoming M.S. in Artificial Intelligence student at **Northeastern University 🇺🇸**
+- 🏫 Incoming M.S. in Artificial Intelligence student at **Northeastern University**
 - 🎓 Background in Computer Science, software engineering, backend systems, and distributed systems
 - 👩‍💻 Academic interests: machine learning applications, AI-oriented software engineering, intelligent software systems, and scalable backend infrastructure
 - 👷‍♀️ Ex-architect and designer with experience in UI/UX and digital product design
